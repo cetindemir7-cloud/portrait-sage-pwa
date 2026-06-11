@@ -1,0 +1,1 @@
+{\n  \"buildCommand\": \"npm run build\",\n  \"devCommand\": \"vite\",\n  \"installCommand\": \"npm install\",\n  \"framework\": \"vite\",\n  \"outputDirectory\": \"dist\"\n}\n
